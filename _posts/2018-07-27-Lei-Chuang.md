@@ -2,7 +2,7 @@
 
 layout: post
 
-title: 雷闯性侵事件
+title: 雷闯事件
 
 categories: Archive
 
