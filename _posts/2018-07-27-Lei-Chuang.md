@@ -5,9 +5,9 @@
 
   layout: post
 
-  title: 雷闯事件
+title: 雷闯事件
 
-  categories: Archive
+categories: Archive
 
 tags: 性侵, 公益
 
