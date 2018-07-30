@@ -3,7 +3,7 @@
 
 ---
 
-  layout: post
+    layout: post
 
 title: 雷闯事件
 
@@ -16,7 +16,7 @@ date: 2018-07-27
 background_image: "https://i.loli.net/2018/07/28/5b5bd75435f47.jpg"
 
 description: 网友举报3年前遭雷闯性侵。
-  
+      
 ---
 
 网友发长文举报3年前遭雷闯性侵。
