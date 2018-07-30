@@ -1,24 +1,23 @@
 ---
+
+ layout: post
+
+ title: 雷闯性侵事件
+
+ categories: Archive
+
+ tags: 性侵
+
+ date: 2018-07-27
+
+ background_image: "https://i.loli.net/2018/07/28/5b5bd75435f47.jpg"
+
+ description: 网友举报3年前遭雷闯性侵。
+
+---
+
 本页面信息均为采集媒体报道、微信公众号、微博等公开渠道信息汇总编辑。如有补充、建议，或愿意参与志愿协作编辑，请与HelpMiTu@protonmail.com联系。如您有个人信息申诉或受性侵/性骚扰案件求助，请联系NGOMeToo@gmail.com。
 
----
-
-
-layout: post
-
-    title: 雷闯事件
-
-categories: Archive
-
-tags: 性侵, 公益
-
-date: 2018-07-27
-
-background_image: "https://i.loli.net/2018/07/28/5b5bd75435f47.jpg"
-
-description: 网友举报3年前遭雷闯性侵。
-   
----
 
 网友发长文举报3年前遭雷闯性侵。
 
