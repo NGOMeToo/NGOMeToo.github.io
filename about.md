@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### 关于NGOmetoo：
 
-A place to include any other types of information that you'd like to include about yourself.
+NGOmetoo是一个反性骚扰/性侵犯的关注&赋能志愿者小组，意在给受性骚扰／性侵犯当事人提供安全友好的举报环境、信息技术、媒体支持及法律/心理援助对接等志愿服务。
 
-### Contact me
+### 联系我们
 
-[email@domain.com](mailto:email@domain.com)
+[ngometoo@gmail.com](mailto:ngometoo@gmail.com)
+
+加入请说明参与缘由、技能、时间、志愿服务方向倾向等，谢谢！
