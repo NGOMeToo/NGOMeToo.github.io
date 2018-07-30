@@ -1,18 +1,18 @@
 ---
 
- layout: post
+layout: post
 
- title: 雷闯性侵事件
+title: 雷闯性侵事件
 
- categories: Archive
+categories: Archive
 
- tags:
+tags:
 
- date: 2018-07-27
+date: 2018-07-27
 
- image_feature: "https://i.loli.net/2018/07/28/5b5bd75435f47.jpg"
+image_feature: "https://i.loli.net/2018/07/28/5b5bd75435f47.jpg"
 
- description: 网友举报3年前遭雷闯性侵。
+description: 网友举报3年前遭雷闯性侵。
 
 ---
 
@@ -214,9 +214,3 @@
 
 
 最后编辑： 2018-07-27 22:12
-
----
-
-本作品采用知识共享-署名(CC-BY) 4.0 国际版本许可协议进行许可。所有内容皆可以任意转载，但转载时务必请注明出处。
-
-以上系从各媒体报道、当事人微博、微信、微信群发言的内容汇集而成，为方便读者全方面了解事件过程而进行的整理。文章内使用的文字版权归原作者所有。如果侵犯了你的权益，请联系<HelpMiTu@protonmail.com>, 我们将在第一时间删除。
