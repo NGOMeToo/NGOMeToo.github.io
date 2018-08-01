@@ -16,7 +16,7 @@ description: 网友举报3年前遭雷闯性侵。
 
 ---
 
-> 更新时间： 2018-07-31 20:03
+> 更新时间： 2018-08-01 14:00
 
 ## 1. 相关人物
 
@@ -66,19 +66,7 @@ description: 网友举报3年前遭雷闯性侵。
 - 现代快报报道，[北京警方回应是否介入知名公益人雷闯性侵事件：正核实](http://view.inews.qq.com/a/TWF2018072404089404?refer=wxsearch&from=timeline&isappinstalled=0&cv=0x70000001&dt=6&lang=zh_CN&pass_ticket=HjiJx2FRmSrwI1f%2BIQTd0HnZZDtN%2BYWr8q4FCdLc0BAHilhIyR%2BGRw5Gqaky8kyC)
 - 亿友公益官网发出[公告](http://www.yiyougongyi.org/h-nd-540.html#_np=2_626)，撤销雷闯职责，变更法人，开展员工性别意识培训，将出台机构反性骚扰规则。
 
-### 7月25日
-
-暂无进展
-
-### 7月26日
-
-暂无进展
-
-### 7月27日
-
-暂无进展
-
-### 7月28日
+### 7月25日～7月28日
 
 暂无进展
 
@@ -132,6 +120,10 @@ description: 网友举报3年前遭雷闯性侵。
 
 反性侵行动组给雷闯和亿友公益邮寄第三封公开信。
 ![第三封信.jpg](https://i.loli.net/2018/07/31/5b604e4bf0ec9.jpg)
+
+### 8月1日
+
+反性骚扰行动小组在新浪微博开通专属帐号「[雷闯自首了吗](https://weibo.com/u/5517942174)」，公开督促雷闯自首。
 
 ## 5. 各方回应/意见
 
