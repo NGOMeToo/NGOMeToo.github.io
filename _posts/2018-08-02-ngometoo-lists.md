@@ -4,7 +4,7 @@ layout: post
 
 title: 公益圈性骚扰/性侵曝光表
 
-categories: Sticky
+categories: sticky
 
 date: 2018-08-02
 
