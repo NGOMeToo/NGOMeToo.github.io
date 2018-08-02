@@ -16,9 +16,6 @@ description:
 
 ---
 
-## 公益圈性骚扰/性侵曝光表
-
-
 曝光时间|举报人|被举报人|详情
 ---|---|---|---
 2018.07.20|JZ|袁天鹏|[袁天鹏事件](https://ngometoo.github.io/YuanTianpeng/)
