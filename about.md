@@ -11,6 +11,6 @@ NGOmetoo是一个反性骚扰/性侵犯的关注&赋能志愿者小组，意在�
 
 ### 联系我们
 
-[ngometoo@gmail.com](mailto:ngometoo@gmail.com)
+[HelpMiTu@protonmail.com](mailto:helpmitu@protonmail.com)
 
 加入请说明参与缘由、技能、时间、志愿服务方向倾向等，谢谢！
