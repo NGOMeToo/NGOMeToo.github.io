@@ -2,11 +2,14 @@
 
 layout: post
 
-title: 雷闯性侵事件
+title: 雷闯事件
 
 categories: Archive
 
 tags:
+   - NGO
+   - 雷闯
+   - 性侵害
 
 date: 2018-07-27
 
