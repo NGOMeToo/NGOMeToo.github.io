@@ -17,6 +17,8 @@ image_feature: "https://i.loli.net/2018/07/28/5b5bd75435f47.jpg"
 
 description: 网友举报3年前遭雷闯性侵。
 
+comments: true
+
 ---
 
 > 更新时间： 2018-08-01 14:00
