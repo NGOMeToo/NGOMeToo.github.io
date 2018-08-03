@@ -13,11 +13,13 @@ tags:
   - 张锦雄
   - 性骚扰
 
-description: 数十位指控曾遭张锦雄性骚扰。
+description: 三十多位网友指控曾遭张锦雄性骚扰。
 
 ---
 
 最后更新时间：2018.08.03
+
+阅读技巧说明：如遇![Selection_015](https://i.loli.net/2018/08/03/5b643745b01d8.bmp)这类数字上标，可点击直接跳转到对应图片处；图片左下角回车键![Selection_014](https://i.loli.net/2018/08/03/5b6436bd110e2.bmp)，点击可跳回上面文字位置。
 
 ---
 
@@ -73,16 +75,16 @@ description: 数十位指控曾遭张锦雄性骚扰。
 
 ## 2018年4月
 
-微博博主@A者记 [发微博指](https://weibo.com/5682648147/GaNLU4quc)「关于张锦雄涉嫌性骚扰别人的证据在以前基础上增加两人，截图予以留底，刚翻微博发现他在成都也有过性骚扰别人，加上图二性骚扰长沙孙文麟，现存证据涉及多个省市多人，尤其以四川重庆为甚」，附截图。
+微博博主@A者记 [发微博指](https://weibo.com/5682648147/GaNLU4quc)「关于张锦雄涉嫌性骚扰别人的证据在以前基础上增加两人，截图予以留底，刚翻微博发现他在成都也有过性骚扰别人，加上图二性骚扰长沙孙文麟，现存证据涉及多个省市多人，尤其以四川重庆为甚」。
 
 ## 7月24日
 
 化名小L以及名字OWEN及小新的三名受害人在微信公号「爱的征战」上发布文章[《举报锦雄性骚扰》](https://mp.weixin.qq.com/s?__biz=MzI5ODI3NzU2OA==&mid=2247483942&idx=1&sn=8a1d9c5f1fda8bdf624cc14a6f7cd7aa&chksm=eca90d89dbde849f56088abb2ebf902f2b8385011733866835ff4784c01b19740c85a7f20faf&mpshare=1&scene=1&srcid=0724aoTphOymmOGvomLg8IFD&pass_ticket=oeGDgd63Zs1mPTIfRmGCqs0y3%2FAtycUBuRTrzCqma310NWgZZMHglxGAdANDYzKk#rd)，指三人遭其「以勃起的下体从後方磨蹭」丶「抚摸大腿」。
 
-公益组织「浪漫转身」以及一些关注人士促请张作正面回应，张表示暂不考虑作回应。张锦雄转发举报文至朋友圈丶微信多个群组以及微博，并艾特多个机构及个人；（[不沉默：就「举报张锦雄性骚扰」一事，我们的声明
+公益组织「浪漫转身」以及一些关注人士促请张作正面回应，张表示暂不考虑作回应。张锦雄转发举报文至朋友圈丶微信多个群组以及微博，并艾特多个机构及个人（[不沉默：就「举报张锦雄性骚扰」一事，我们的声明
 ](https://mp.weixin.qq.com/s?__biz=MjM5NjM3MjcyNA==&mid=2649856165&idx=1&sn=01417a05e993a6d9d32f41a59ecd47de&chksm=beef713e8998f828a7d991342461532b57815858f66f2cf3d2e21d97ee4b215d93ae12b26848&mpshare=1&scene=1&srcid=0724MDPRlHEI7Wmmhk5NyMty&pass_ticket=cnPfjxmvd17JfLzzZ41Y8kT5TXOMbFKfrcHANrDpxnNLYRbBNr1B6eyRz9OG0WP4#rd)）
 
-下午，张发微博及朋友圈，指「谁懂他，明白他，甚至不同半句安慰，反正就是了解他的为人，相信他，接纳他的全部。」，仍未正面回应。部分网友表示支持，认为「清者自清」[^2]
+下午，张锦雄发微博及朋友圈，指「谁懂他，明白他，甚至不同半句安慰，反正就是了解他的为人，相信他，接纳他的全部。」，仍未正面回应。部分网友表示支持，认为「清者自清」[^2]
 
 浪漫转身在微信公号上发布声明[《不沉默：就「举报张锦雄性骚扰」一事，我们的声明》](https://mp.weixin.qq.com/s?__biz=MjM5NjM3MjcyNA==&mid=2649856165&idx=1&sn=01417a05e993a6d9d32f41a59ecd47de&chksm=beef713e8998f828a7d991342461532b57815858f66f2cf3d2e21d97ee4b215d93ae12b26848&mpshare=1&scene=1&srcid=0724MDPRlHEI7Wmmhk5NyMty&pass_ticket=cnPfjxmvd17JfLzzZ41Y8kT5TXOMbFKfrcHANrDpxnNLYRbBNr1B6eyRz9OG0WP4#rd)，指在事情得到回应及解决前拒绝与张合作。
 
@@ -161,7 +163,7 @@ description: 数十位指控曾遭张锦雄性骚扰。
 
 张锦雄在多次参加各类活动期间，对多位志愿者性骚扰。
 
-# 6. 各界意见/声音
+# 6. 各方意见/声音
 
 ## 举报者声音
 
@@ -195,6 +197,7 @@ description: 数十位指控曾遭张锦雄性骚扰。
 ### 【7月28日】
 
 - 举报人流逝[《我“接受”张锦雄道歉，至少还有25个人没收到道歉！》](https://mp.weixin.qq.com/s/UTI5ezcdba-a23yrb8pt_A)回应
+
 > 我希望大家明白，这个道歉申明不仅仅是给我们四个或者五个，还需要给下面这些几十位收到张锦雄先生性骚扰的小伙伴们！还有那些已经受到更大伤害却永远不敢说出来，并且可能不愿意再相信别人的受害者！
 >
 > 所以我希望张锦雄先生认认真真道歉，不要辩解，不要一边道歉，一边说别人是白眼狼。我说的是认认真真！！！
@@ -225,6 +228,10 @@ description: 数十位指控曾遭张锦雄性骚扰。
 
 - 张锦雄发声明：[关于『举报张锦雄性骚扰』的正式回应](https://mp.weixin.qq.com/s?__biz=MzI4ODUzMzI4Ng==&mid=2247485061&idx=1&sn=35168bcf5c94f5e473e9531f17ab8137&chksm=ec3db8ccdb4a31dad9cb9ae51bf2a54e6eb9922aa3ed352eefb5d79058a904acb41babfad6f5&mpshare=1&scene=1&srcid=07271IgHUV8uiH3YRZk029H8&pass_ticket=cnPfjxmvd17JfLzzZ41Y8kT5TXOMbFKfrcHANrDpxnNLYRbBNr1B6eyRz9OG0WP4#rd)
 > 我是一个人，是一个会犯错的公益人，我不是一个『披着公益外衣专事性骚扰』的政治符号。
+
+## 公益机构声明
+
+浪漫转身在微信公号上发布声明[《不沉默：就「举报张锦雄性骚扰」一事，我们的声明》](https://mp.weixin.qq.com/s?__biz=MjM5NjM3MjcyNA==&mid=2649856165&idx=1&sn=01417a05e993a6d9d32f41a59ecd47de&chksm=beef713e8998f828a7d991342461532b57815858f66f2cf3d2e21d97ee4b215d93ae12b26848&mpshare=1&scene=1&srcid=0724MDPRlHEI7Wmmhk5NyMty&pass_ticket=cnPfjxmvd17JfLzzZ41Y8kT5TXOMbFKfrcHANrDpxnNLYRbBNr1B6eyRz9OG0WP4#rd)，指在事情得到回应及解决前拒绝与张合作。
 
 ## 媒体声音（主流媒体&自媒体）
 
