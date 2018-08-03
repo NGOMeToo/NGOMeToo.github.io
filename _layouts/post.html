@@ -24,8 +24,6 @@ layout: default
 
   <font size=2px>
      本页面信息均为采集媒体报道、微信公众号、微博等公开渠道信息汇总编辑。如有补充、建议，或愿意参与志愿协作编辑，请与 <a href="HelpMiTu@protonmail.com">HelpMiTu@protonmail.com</a> 联系。如您有个人信息申诉或受性侵/性骚扰需要求助，请联系 <a href="mailto:NGOMeToo@gmail.com">NGOMeToo@gmail.com</a>.
-    <br >
-    感谢 LOGO 图标「小兔子乖乖」的创作者 Jess 支持「咪兔」。
   </font>
 
   <hr style="border-top: 2px solid #f1f3f5;"/>
@@ -34,20 +32,28 @@ layout: default
     {{ content }}
   </div>
 
+  <hr style="border-top:1px solid #28323C;"/>
+
+  <font size=2px>	
+    本作品采用<a href="https://creativecommons.org/licenses/by/4.0/">知识共享-署名(CC-BY4.0)</a>国际版本许可协议进行许可。所有内容皆可以任意转载，但转载时务必请注明出处。
+    <br>
+    感谢 LOGO 图标「小兔子乖乖」的创作者 Jess 支持「咪兔」。
+  </font>
+  
   <script> pangu.spacingPage(); </script>
 
   <div class="pagination">
     {% if page.previous.url %}
       <span class="prev" >
           <a href="{{ site.url }}{{ site.baseurl }}{{ page.previous.url }}">
-            &#xE000; {{ page.previous.title }}
+            上一篇： {{ page.previous.title }}
           </a>
       </span>
     {% endif %}
     {% if page.next.url %}
       <span class="next" >
           <a href="{{ site.url }}{{ site.baseurl }}{{ page.next.url }}">
-            {{ page.next.title }} &#xE001;
+            下一篇：{{ page.next.title }}
           </a>
       </span>
     {% endif %}
