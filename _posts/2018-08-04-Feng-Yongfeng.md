@@ -134,4 +134,4 @@ description:
 
 [^4]:![冯永锋回应2](https://i.loli.net/2018/08/03/5b6472c3c3c13.jpg)
 
-[^5]:![冯朋友圈](htps://i.loli.net/2018/08/03/5b647337e49bd.png)
+[^5]:![冯朋友圈](https://i.loli.net/2018/08/05/5b66b3c92260c.png)
