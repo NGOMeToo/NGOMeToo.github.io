@@ -117,7 +117,14 @@ description:
 
 - 台风三菱镜：[记雷闯、冯永锋的公关套路7件套](https://mp.weixin.qq.com/s?src=11&timestamp=1533395398&ver=1040&signature=xszshKH3vmx5-ITCO9jN4tNk3VfTt-Cww6BhurbYsHraXXC1g9ABzLH3NTGyT5Zv7DOS9iUq5ip-Vu*0QYzY6pNoFPDiQH08sBQXsbC0fBxr45V0fSDWtitGoA7dZCZ2&new=1)
 
-# 5. 相关资料
+# 5. 更多阅读
+
+- 艾晓明：[幸存者的屈辱书写](https://www.douban.com/note/684700069/)
+
+- NJU核真录：[50名受害人自述性骚扰行为分析，米兔是否大鸣大放](https://mp.weixin.qq.com/s?src=11&timestamp=1533443288&ver=1041&signature=MwzyW0obJYuIUOhnQe2xqgnSf-LRFIz9uW79gDAzZDaNkBZYG4E-vljUEuoD*tLjFnvg2Zszv2peMqakEEPvClsTv-pVIzUUnuxegX8Fz2OQgBODfF-eXAFovrCXkyy6&new=1)
+
+
+# 6. 相关资料
 
 [^1]:![](https://i.loli.net/2018/08/03/5b6471165c0f6.jpg)
 
