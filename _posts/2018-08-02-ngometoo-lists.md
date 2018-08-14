@@ -23,6 +23,9 @@ description:
 2018.07.23|2015年参加“亿友”所组织徒步活动的志愿者，在途中遭雷闯性侵|[雷闯](https://ngometoo.github.io/Lei-Chuang/)|2018/7/30
 2018.07.23起|7.23以来，已有30多位网友发文或留言发声曾被张锦雄性骚扰/性侵|[张锦雄](https://ngometoo.github.io/Zhang-Jinxiong/)|2018/8/3
 2018.07.23|多位公益从业者公开举报冯永锋曾性骚扰员工、实习生|[冯永锋](https://ngometoo.github.io/Feng-Yongfeng/)|2018/8/4
+2018.07.24|网友举报刘国强性骚扰|[刘国强](https://ngometoo.github.io/Liu-Guoqiang/)|2018/8/5
+2018.07.25|7名当事人匿名/实名指控曾遭章文言语、摸腿、强吻等性骚扰|[章文](https://ngometoo.github.io/Zhang-Wen/)|2018/8/9
+2018.07.27|两位女社工匿名举报曾遭刘猛性骚扰、性侵|[刘猛](https://ngometoo.github.io/Liu-Meng/)|2018/8/13
 
 注1：“指控事件”均为举报人方列举事实经过概括
 
