@@ -16,6 +16,6 @@ NGOmetoo是一个反性骚扰/性侵犯的关注&赋能志愿者小组，意在�
 ### 联系我们
 
 有任何补充、建议，墙外可直接在文后发表评论，或联系以下邮箱
-[HelpMiTu@protonmail.com](mailto:helpmitu@protonmail.com)
+[HelpMiTu@protonmail.com](mailto:helpmitu@protonmail.com)，加入协作志愿者请说明参与缘由、技能、时间、志愿服务方向倾向等，预计每周工作时间一般不超过4小时。
 
-加入协作志愿者请说明参与缘由、技能、时间、志愿服务方向倾向等，预计每周工作时间一般不超过4小时。
+Twitter： [ngometoo](https://twitter.com/ngometoo)
