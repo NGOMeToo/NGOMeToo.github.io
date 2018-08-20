@@ -25,6 +25,8 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
+  - name: 订阅
+    url: /atom.xml
   - name: 关于
     url: /about
 
@@ -43,7 +45,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: atom.xml # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
 #  twitter: jekyllrb
