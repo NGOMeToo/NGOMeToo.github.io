@@ -26,6 +26,7 @@ description:
 2018.07.24|网友举报刘国强性骚扰|[刘国强](https://ngometoo.github.io/Liu-Guoqiang/)|2018/8/5
 2018.07.25|7名当事人匿名/实名指控曾遭章文言语、摸腿、强吻等性骚扰|[章文](https://ngometoo.github.io/Zhang-Wen/)|2018/8/9
 2018.07.27|两位女社工匿名举报曾遭刘猛性骚扰、性侵|[刘猛](https://ngometoo.github.io/Liu-Meng/)|2018/8/13
+2018.07.26|一位媒体人匿名举报2012年曾遭霍庆川性骚扰|[霍庆川](https://ngometoo.github.io/Huo-Qingchuan/)|2018/8/22
 
 注1：“指控事件”均为举报人方列举事实经过概括
 
