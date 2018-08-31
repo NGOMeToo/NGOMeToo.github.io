@@ -264,6 +264,11 @@ img {
   border-radius: 5px;
 }
 
+figcaption {
+  text-align: center;
+  font-size: medium;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
