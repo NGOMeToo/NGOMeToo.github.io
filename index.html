@@ -11,7 +11,7 @@ layout: default
   {% if paginator.page == 1 %}
   <article class="post">
     <h2>
-      <a href="{{ site.baseurl }}/ngometoo-lists/">【置顶】公益圈性骚扰曝光表</a>
+      <a href="{{ site.baseurl }}/ngometoo-lists/">性骚扰/性侵MeToo曝光事件表</a>
     </h2>
 
     <div clsss="meta">
@@ -22,8 +22,8 @@ layout: default
       <ul class="tag">
 
         <li>
-          <a href="{{ site.baseurl }}/tags.html#NGO">
-            NGO
+          <a href="{{ site.baseurl }}/tags.html#metoo">
+            metoo
           </a>
         </li>
 
@@ -73,14 +73,14 @@ layout: default
   {% if paginator.previous_page %}
     <span class="prev">
       <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="prev">
-        &#xE000; Previous
+        上一页
       </a>
     </span>
   {% endif %}
   {% if paginator.next_page %}
     <span class="next">
       <a href="{{ site.baseurl}}{{ paginator.next_page_path }}" class="next">
-        Next &#xE001;
+        下一页
       </a>
     </span>
   {% endif %}
