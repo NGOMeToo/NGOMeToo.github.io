@@ -26,7 +26,7 @@ description:
 2018.07.23起|7.23以来，已有30多位网友发文或留言发声曾被张锦雄性骚扰/性侵|[张锦雄](https://ngometoo.github.io/Zhang-Jinxiong/)|2018/8/3
 2018.07.23|多位公益从业者公开举报冯永锋曾性骚扰员工、实习生|[冯永锋](https://ngometoo.github.io/Feng-Yongfeng/)|2018/8/4
 2018.07.24|网友举报刘国强性骚扰|[刘国强](https://ngometoo.github.io/Liu-Guoqiang/)|2018/8/5
-2018.07.25|7名当事人匿名/实名指控曾遭章文言语、摸腿、强吻等性骚扰|[章文](https://ngometoo.github.io/Zhang-Wen/)|2018/8/9
+2018.07.25|两位公益人举报曾遭周宗村性骚扰、性侵未遂|[周宗村](https://ngometoo.github.io/Zhou-Zongcun/)|2018/8/22
 2018.07.27|两位女社工匿名举报曾遭刘猛性骚扰、性侵|[刘猛](https://ngometoo.github.io/Liu-Meng/)|2018/8/13
 2018.07.26|一位媒体人匿名举报2012年曾遭霍庆川性骚扰|[霍庆川](https://ngometoo.github.io/Huo-Qingchuan/)|2018/8/22
 2018.07.25|WWF前员工实名举报在2016年曾遭上司周非性骚扰|[周非](https://ngometoo.github.io/Zhou-Fei/)|2018/8/23
@@ -36,6 +36,13 @@ description:
 曝光时间|指控事件|当事人|更新时间
 ---|---|---|---
 2018.07.25|四年前，举报人在《艺术人生》栏目组实习期间，遭到朱军性骚扰|[朱军](https://ngometoo.github.io/Zhu-Jun/)|2018/9/6
+2018.07.25|7名当事人匿名/实名指控曾遭章文言语、摸腿、强吻等性骚扰|[章文](https://ngometoo.github.io/Zhang-Wen/)|2018/8/9
+
+## 其它
+
+曝光时间|指控事件|当事人|更新时间
+---|---|---|---
+2018.07.25|为你读诗前员工举报曾遭创始人潘杰客性骚扰|[潘杰客](https://ngometoo.github.io/Pan-Jieke/)|2018/7/29
 
 
 注1：“指控事件”均为举报人方列举事实经过概括
