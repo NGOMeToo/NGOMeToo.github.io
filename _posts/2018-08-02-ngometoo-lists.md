@@ -27,9 +27,9 @@ description:
 2018.07.23|多位公益从业者公开举报冯永锋曾性骚扰员工、实习生|[冯永锋](https://ngometoo.github.io/Feng-Yongfeng/)|2018/8/4
 2018.07.24|网友举报刘国强性骚扰|[刘国强](https://ngometoo.github.io/Liu-Guoqiang/)|2018/8/5
 2018.07.25|两位公益人举报曾遭周宗村性骚扰、性侵未遂|[周宗村](https://ngometoo.github.io/Zhou-Zongcun/)|2018/8/22
-2018.07.27|两位女社工匿名举报曾遭刘猛性骚扰、性侵|[刘猛](https://ngometoo.github.io/Liu-Meng/)|2018/8/13
-2018.07.26|一位媒体人匿名举报2012年曾遭霍庆川性骚扰|[霍庆川](https://ngometoo.github.io/Huo-Qingchuan/)|2018/8/22
 2018.07.25|WWF前员工实名举报在2016年曾遭上司周非性骚扰|[周非](https://ngometoo.github.io/Zhou-Fei/)|2018/8/23
+2018.07.26|一位媒体人匿名举报2012年曾遭霍庆川性骚扰|[霍庆川](https://ngometoo.github.io/Huo-Qingchuan/)|2018/8/22
+2018.07.27|两位女社工匿名举报曾遭刘猛性骚扰、性侵|[刘猛](https://ngometoo.github.io/Liu-Meng/)|2018/8/13
 
 ## 媒体圈
 
@@ -45,6 +45,6 @@ description:
 2018.07.25|为你读诗前员工举报曾遭创始人潘杰客性骚扰|[潘杰客](https://ngometoo.github.io/Pan-Jieke/)|2018/7/29
 
 
-注1：“指控事件”均为举报人方列举事实经过概括
+*注1：“指控事件”均为举报人方列举事实经过概括*
 
-注2：点击当事人姓名了解详情
+*注2：点击当事人姓名了解详情*
