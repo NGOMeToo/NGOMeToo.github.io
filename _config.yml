@@ -28,7 +28,7 @@ navigation:
   - name: 订阅
     url: /atom.xml
   - name: 项目
-    url: /project
+    url: /project.html
   - name: 关于
     url: /about
 
